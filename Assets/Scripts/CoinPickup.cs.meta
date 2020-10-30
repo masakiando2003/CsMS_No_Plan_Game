@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ddd57e51038e53b40a87f470f6969259
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinPickupSFX: {fileID: 8300000, guid: 87121a84634baf44782fc3931bf53812, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
